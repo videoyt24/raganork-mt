@@ -1,7 +1,7 @@
 {
-  "name": "raganork-md",
+  "name": "Group bot",
   "version": "4.0.0",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "whatsapp bot- Multi device version.",
   "scripts": {
     "start": "pm2 start . --attach --name Raganork"
   },
